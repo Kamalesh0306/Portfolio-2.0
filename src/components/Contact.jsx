@@ -19,6 +19,11 @@ const Contact = () => {
         <br></br>
         <br></br>
         <br></br>
+        <br></br>
+        <br></br>
+        <br></br>
+        <br></br>
+        <br></br>
             <div className='pt-20'>
                 <p className='text-4xl font-bold inline border-b-4 border-pink-600 text-gray-300'>Contact</p>
                 <p className='text-gray-300 py-4'>Submit the form below or shoot me an email - kamaleshgunasekaran013@gmail.com</p>

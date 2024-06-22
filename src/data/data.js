@@ -1,7 +1,9 @@
+import Car from '../assets/projects/Car-rental.png'
 import Covid from '../assets/projects/Covid.png'
 import Dic from '../assets/projects/Dic.png'
 import Emp from '../assets/projects/Emp.png'
 import Gym from '../assets/projects/Gym.png'
+import Job from '../assets/projects/Job.png'
 import Lib from '../assets/projects/Lib.png'
 import Weather from '../assets/projects/Wer.png'
 import Img from '../assets/projects/ai.png'
@@ -12,20 +14,23 @@ import TTS from '../assets/projects/tts.png'
 import Video from '../assets/projects/video.png'
 
 export const data=[
+    
     {
         id:1,
-        name:"Dog Website",
-        image:Dog,
-        github:"https://github.com/Kamalesh0306/Dog-Website",
-        live:"https://kamalesh0306.github.io/Dog-Website/",
+        name:"Job-Portal",
+        image:Job,
+        github:"https://github.com/Kamalesh0306/Job-Portal",
+        live:"https://job-portal01.vercel.app/",
     },
+    
     {
         id:2,
-        name:"Employee-Detail-Form",
-        image:Emp,
-        github:"https://github.com/Kamalesh0306/Employee-Detail-Form",
-        live:"https://employee-detail-form.vercel.app/",
+        name:"Car-Rent-App",
+        image:Car,
+        github:"https://github.com/Kamalesh0306/Car-Rental",
+        live:"https://github.com/Kamalesh0306/Car-Rental",
     },
+
     {
         id:3,
         name:"Gym-App",
@@ -67,6 +72,21 @@ export const data=[
 
     {
         id:8,
+        name:"Dog Website",
+        image:Dog,
+        github:"https://github.com/Kamalesh0306/Dog-Website",
+        live:"https://kamalesh0306.github.io/Dog-Website/",
+    },
+    {
+        id:9,
+        name:"Employee-Detail-Form",
+        image:Emp,
+        github:"https://github.com/Kamalesh0306/Employee-Detail-Form",
+        live:"https://employee-detail-form.vercel.app/",
+    },
+
+    {
+        id:10,
         name:"TO-DO",
         image:TODO,
         github:"https://github.com/Kamalesh0306/TO-DO",
@@ -74,7 +94,7 @@ export const data=[
     },
 
     {
-        id:9,
+        id:11,
         name:"News-App",
         image:News,
         github:"https://github.com/Kamalesh0306/News-App",
@@ -82,7 +102,7 @@ export const data=[
     },
 
     {
-        id:10,
+        id:12,
         name:"Text-To-Speech",
         image:TTS,
         github:"https://github.com/Kamalesh0306/Text-To-Speech",
@@ -90,7 +110,7 @@ export const data=[
     },
 
     {
-        id:11,
+        id:13,
         name:"Video-Chat-App",
         image:Video,
         github:"https://github.com/Kamalesh0306/Video-Chat-App",
@@ -98,7 +118,7 @@ export const data=[
     },
 
     {
-        id:12,
+        id:14,
         name:"Weather-App",
         image:Weather,
         github:"https://github.com/Kamalesh0306/Weather-app",

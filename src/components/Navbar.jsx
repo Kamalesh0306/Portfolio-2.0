@@ -8,7 +8,7 @@ import {
 } from 'react-icons/fa';
 import { SiLeetcode } from "react-icons/si";
 import { Link } from 'react-scroll';
-import ResumePDF from '../assets/resume.pdf'; // Update the path to your resume PDF file
+import ResumePDF from '../assets/CIT_KAMALESH_IT.pdf'; // Update the path to your resume PDF file
 import Logo from '../assets/user.png';
 
 const Navbar = () => {
